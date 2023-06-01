@@ -32,7 +32,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/5EWBLpb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In my OSticket account I’m starting at roles. Which are permissions given out to users depending on their position depending on what department they’re in. I’m acting agent in OS ticket, so I go to the role tab and create a new role called, “Supreme Admin”. From there I can enable or disable permissions at my discretion. From there I click on the agent’s tab, then departments, where I am shown existing departments such as Maintenance and Support. I have created a new department called System Administrators. I then want to create a team, so I click the Teams tab that displays all teams, which only consists of Level I Support. So, I added a team called Level II Support where I made myself the Team Lead as you can see in the screenshot above. 
 </p>
 <br />
 
