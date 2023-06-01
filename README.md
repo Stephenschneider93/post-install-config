@@ -48,6 +48,6 @@ I then want to allow anyone the ability to create tickets. So, I go to the user�
 <img src="https://i.imgur.com/IQe8WS3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Help Topics are open tickets, here I have added 4 new tickets to the 4 default tickets. The first one being Business Critical Outage ticket. The second ticket being Personal Computer Issues. And the third ticket being an Equipment Request. In these tickets I’ve created, I can put internal notes to help specify what the issue is. That might help the receiving agent figure out the issue faster, which is best for overall work efficiency. I am also able to set the status of the issue, which can indicate to the receiving agent whether it’s ranging from high priority to low priority. As you can see from the screenshot above. 
 </p>
 <br />
